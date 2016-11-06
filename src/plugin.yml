@@ -1,0 +1,9 @@
+main: me.ryantbhh.Main
+author: RyanTbh
+name: WeatherInfo
+version: 1.0
+
+commands:
+  infome:
+    aliases: [weather,location,where]
+    description: Info about everything you need to know.
